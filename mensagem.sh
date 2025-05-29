@@ -1,5 +1,4 @@
 #!/bin/bash
-
 echo "Digite seu nome: "
 # Salva a informação escrita pelo usuáio
 read nome

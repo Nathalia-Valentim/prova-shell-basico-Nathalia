@@ -1,5 +1,4 @@
 #!/bin/bash
-
 echo "Hoje é: "
 
 # Imprime data e hora atual

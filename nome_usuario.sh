@@ -1,5 +1,4 @@
 #!/bin/bash
-
 #Exibe o diretório inicial
 user=$(whoami)
 echo "Usuário logado: "$user""
